@@ -1,0 +1,3 @@
+# Include specific files or folders that are normally ignored by Jekyll
+include:
+  - _astro
